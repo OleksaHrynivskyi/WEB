@@ -48,6 +48,7 @@
    ```bash
    python -m streamlit run web.py
    ```
+або скористайтеся покликанням на згенерований сайт: https://my-app-web-exam.streamlit.app/
 
 ## Структура проекту
 
